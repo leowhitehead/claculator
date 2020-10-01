@@ -1,2 +1,2 @@
 # claculator
-adds numbers together
+adds only defined numbers together
